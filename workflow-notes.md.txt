@@ -26,3 +26,11 @@ A pull request proposes merging changes from one branch into another. It provide
 
 ### Default Branch
 The default branch is the primary branch of the repository. In this repository, the default branch is main.
+
+## Assignment Links
+
+Issue:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/issues/1
+
+Pull Request:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/pull/2
