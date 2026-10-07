@@ -67,3 +67,25 @@ The checklist matches the required pull-request content and will make the final 
 
 Related GitHub URL:
 https://github.com/danielbelvillejr/swe325_525-github-ai-practice
+
+# Reflection
+
+## 1. Which GitHub action or object was most useful to you, and why?
+
+The pull request was the most useful because it brought the branch changes, commit history, issue, review, and final merge into one place. It made it easier to verify the work before merging it into main.
+
+## 2. Which AI suggestion did you accept, and what made it useful?
+
+I accepted the suggestion to organize the README into purpose, scope, and student sections. This made the repository easier to understand and directly addressed the assignment requirements.
+
+## 3. Which AI suggestion did you revise or reject, and why?
+
+I revised the AI-generated documentation instead of treating it as final. I added the actual GitHub URLs and repository-specific details after the issue, commits, and pull request existed because those details could not be completed accurately beforehand.
+
+## 4. What did you verify yourself instead of trusting the AI?
+
+I verified the branch names, commit history, pull request direction, issue URL, repository URLs, and final merged state directly in GitHub and GitHub Desktop.
+
+## 5. What would you change in your GitHub workflow next time?
+
+Next time I would plan the documentation links earlier and update workflow-notes.md throughout the assignment instead of filling in several final URLs near the end.
