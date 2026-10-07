@@ -1,0 +1,69 @@
+# AI Use Log
+
+## AI Interaction 1
+
+Date: October 7, 2026
+
+Assistant: ChatGPT
+
+Purpose: Explanation
+
+Prompt or summary:
+Explain the difference between a repository, branch, commit, pull request, and issue.
+
+Useful suggestion:
+The explanation helped clarify that a repository stores the project and history, a branch is a separate line of development, a commit records changes, an issue tracks work, and a pull request proposes merging changes.
+
+Decision: accepted
+
+Reason:
+The explanation was clear and matched the GitHub workflow used in this assignment.
+
+Related GitHub URL:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/issues/1
+
+
+## AI Interaction 2
+
+Date: October 7, 2026
+
+Assistant: ChatGPT
+
+Purpose: Proposed improvement
+
+Prompt or summary:
+Review the planned README content and suggest improvements for clarity.
+
+Useful suggestion:
+The README should clearly separate the repository purpose, scope, and student identification.
+
+Decision: accepted
+
+Reason:
+The suggestion made the README easier to understand and directly aligned it with the assignment requirements.
+
+Related GitHub URL:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice
+
+
+## AI Interaction 3
+
+Date: October 1, 2026
+
+Assistant: ChatGPT
+
+Purpose: Review/checklist
+
+Prompt or summary:
+Suggest a checklist for a complete pull request description.
+
+Useful suggestion:
+Include a summary, issue link, acceptance-criteria checklist, commit list, AI-assistance summary, and known limitations or follow-up work.
+
+Decision: accepted
+
+Reason:
+The checklist matches the required pull-request content and will make the final review easier.
+
+Related GitHub URL:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice
