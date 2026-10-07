@@ -34,3 +34,29 @@ https://github.com/danielbelvillejr/swe325_525-github-ai-practice/issues/1
 
 Pull Request:
 https://github.com/danielbelvillejr/swe325_525-github-ai-practice/pull/2
+
+## Final Workflow Links
+
+Repository:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice
+
+Default branch:
+main
+
+Issue:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/issues/1
+
+Issue purpose:
+Document the GitHub workflow and AI-assisted work required for this assignment.
+
+Feature branch:
+feature/github-ai-workflow
+
+Pull Request:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/pull/2
+
+Repository History:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice/commits/main/
+
+Workflow explanation:
+The issue defined the work and acceptance criteria. The feature branch isolated the assignment changes from main. The commits recorded the work in focused steps. The pull request provided a place to review the changes and AI-use documentation before merging them into main. The review identified a needed documentation improvement, which was added before the pull request was merged.
