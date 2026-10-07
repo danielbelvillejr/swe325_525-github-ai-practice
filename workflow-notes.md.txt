@@ -1,0 +1,28 @@
+# GitHub Workflow Notes
+
+## Repository
+Repository URL:
+https://github.com/danielbelvillejr/swe325_525-github-ai-practice
+
+Default branch:
+main
+
+## Feature Branch
+feature/github-ai-workflow
+
+## GitHub Workflow
+
+### Issue
+A GitHub issue defines the work that needs to be completed. For this assignment, the issue describes the repository goal, acceptance criteria, and checklist of tasks.
+
+### Branch
+A branch allows changes to be developed separately from the default branch. This assignment uses the feature/github-ai-workflow branch so the work can be reviewed before being merged into main.
+
+### Commit
+A commit records a specific set of changes in the repository history. Meaningful commit messages make it easier to understand what changed and why.
+
+### Pull Request
+A pull request proposes merging changes from one branch into another. It provides a place to review the work, discuss changes, and verify acceptance criteria before merging.
+
+### Default Branch
+The default branch is the primary branch of the repository. In this repository, the default branch is main.
